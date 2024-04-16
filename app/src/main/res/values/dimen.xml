@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size">30sp</dimen>
+    <dimen name="arabic_size">26sp</dimen>
+    <dimen name="urdu_size">20sp</dimen>
+</resources>
